@@ -16,6 +16,8 @@ O projeto possui a ferramenta ESLint configurada com o guia de estilo da Airbnb.
 $ git clone git@github.com:Lucas-Almeida-SD/Base_Project-React-TypeScript.git
 
 $ cd Base_Project-React-TypeScript
+
+$ npm install
 ```
 
 Após isso, o projeto estará pronto para ser desenvolvido.
